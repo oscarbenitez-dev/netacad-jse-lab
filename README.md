@@ -1,0 +1,1 @@
+# Proyecto realizado en la sección "LAB" dentro del curso "JavaScript Essentials 1", curso disponible en la plataforma "netacad.com" de Cisco.
